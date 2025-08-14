@@ -3,7 +3,7 @@
 
 <img width="1297" height="713" alt="Image" src="https://github.com/user-attachments/assets/503f8ce0-3e9b-48c8-aada-ac6dc25e2e9e" />
 
-<a href="" target="_blank" >
+<a href="https://admin-panel-self-six.vercel.app/" target="_blank" >
   <img src="https://img.shields.io/badge/demo-%20View%20Demo%20-blue.svg?style=for-the-badge&logo=github" alt="View Demo">
 </a>
 
