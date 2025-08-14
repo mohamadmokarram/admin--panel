@@ -1,0 +1,8 @@
+@layer theme, base, mui, components, utilities;
+@import "tailwindcss";
+
+@layer components {
+  .showme {
+    @apply outline outline-amber-500;
+  }
+}

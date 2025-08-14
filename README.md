@@ -1,24 +1,36 @@
-# admin-panel
-<p>Built a centralized admin dashboard for streamlined user administration, content moderation, and system configuration.Hope you enjoy 👨🏻‍💻 </p>
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-<img width="1297" height="713" alt="Image" src="https://github.com/user-attachments/assets/42d1eeda-e30c-4861-b047-17a09459685d" />
+## Getting Started
 
-<a href="" target="_blank" >
-  <img src="https://img.shields.io/badge/demo-%20View%20Demo%20-blue.svg?style=for-the-badge&logo=github" alt="View Demo">
-</a>
+First, run the development server:
 
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+## Learn More
 
+To learn more about Next.js, take a look at the following resources:
 
-- Developed by Mohamad Mokarram
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-- Created - 2025-07-14
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-- Technologies Used -  React, Tailwind, Nextjs
+## Deploy on Vercel
 
-- Role - Frontend
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-- How to reach me : with my [linkedin](https://www.linkedin.com/in/mohamad-mokaram-05b873200/), [instagram](https://www.instagram.com/mokaram_frontdeveloper/)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
