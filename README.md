@@ -1,5 +1,5 @@
 # admin-panel
-<p>Hello! Here's a Simple yet stylish ☀️ Weather App!.You can enter your desired city to check the current weather. Hope you like it!🚀</p>
+<p>Built a centralized admin dashboard for streamlined user administration, content moderation, and system configuration.Hope you enjoy 👨🏻‍💻 </p>
 
 <a href="" target="_blank" >
   <img src="https://img.shields.io/badge/demo-%20View%20Demo%20-blue.svg?style=for-the-badge&logo=github" alt="View Demo">
