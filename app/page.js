@@ -5,7 +5,7 @@ import { useState } from "react";
 import LinearProgress from "@mui/material/LinearProgress";
 
 export default function SignInPage() {
-  const [email, setEmail] = useState("");
+  const [email, setEmail] = useState("parsa@gmail.com");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -99,5 +99,6 @@ export default function SignInPage() {
     </>
   );
 }
+
 
 
