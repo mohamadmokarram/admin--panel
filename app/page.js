@@ -91,8 +91,12 @@ export default function SignInPage() {
               Sign up
             </Link>
           </div>
+                <p className="absolute text-white text-center text-2xl -top-[100px]">
+            type &quot;parsa&quot; in password field to enter.
+          </p>
         </div>
       </div>
     </>
   );
 }
+
