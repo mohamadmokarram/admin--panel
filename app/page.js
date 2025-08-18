@@ -45,7 +45,7 @@ export default function SignInPage() {
         <LinearProgress className="fixed top-0 w-full text-blue-400" />
       )}
       <div className="w-full h-screen flex justify-center items-center *:text-2xl purple-gradient">
-        <div className="w-[350px] flex flex-col items-center p-4 rounded-xl glassy">
+        <div className="w-[350px] relative flex flex-col items-center p-4 rounded-xl glassy">
           <h2 className="text-white text-xl my-2 font-semibold">
             Welcome Back
           </h2>
@@ -99,4 +99,5 @@ export default function SignInPage() {
     </>
   );
 }
+
 
